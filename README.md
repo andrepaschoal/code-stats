@@ -113,8 +113,8 @@ To build the JVM flavor, you need:
 
 ##### JVM
 
-Simply download the latest version from [Releases](https://github.com/milosmns/code-stats/releases)
-and run it using Java:
+Simply download the latest version [here](https://github.com/milosmns/code-stats/releases/latest/download/codestats.jar)
+or from [Releases page](https://github.com/milosmns/code-stats/releases) and run it using Java:
 
 ```console
 $ java -jar codestats.jar --help
